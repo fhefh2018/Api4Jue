@@ -6,8 +6,10 @@ https://img.jue.sh/
 
 #### 使用
 
+```php
 $result = Api4Jue::upload('文件路径');
 var_dump($result);
+```
 
 #### 返回结果
 ```json
